@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sparkhie
+- 👋 Hi, I’m @Abasifreke Umoh
 - 👀 I’m interested in meeting new people and making connections
-- 🌱 I’m currently learning Data analytics
+- 🌱 I’m a Data analyst
 - 💞️ I’m looking to collaborate on Data analytics related projects
 - 📫 How to reach me..You can click any of my links for access
 
